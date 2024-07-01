@@ -13,8 +13,8 @@ $breakpoint arguement choices:
 Inside media queries 1em is always 16px i.e 1em = 16px at every screen size only inside media queries
 */
 :root{
-  --vr-background: rgb(0, 0, 0);
-  --vr-background-op8 : rgba(0, 0, 0, 0.8);
+  --vr-background: rgb(0, 1, 80);
+  --vr-background-op8 : rgba(0, 1, 80, 0.8);
 }
 *,
 *::after,
